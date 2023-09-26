@@ -1,0 +1,44 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Battle Ground CCF,3,000000,c0c0c0,,988,,,988
+La Center / Ridgefield CCF,3,000000,c0c0c0,,989,,,989
+Orchards,3,ffffff,92278f,,072,,,72
+Camas/Washougal,3,000000,bc9632,,092_merged_532345,,,92
+Highway 99,3,000000,fdb913,,071,,,71
+99th Street CCF,3,000000,c0c0c0,,983,,,983
+Fishers Landing Express,3,000000,ed1a3b,,164_merged_532337,,,164
+Marquam Hill Express,3,000000,ed1a3b,,190,,,190
+78th Street,3,000000,00accd,,078,,,78
+East Fourth Plain,3,000000,f27179,,074_merged_532335,,,74
+Van Mall / Fishers,3,000000,0089cf,,080_merged_532340,,,80
+Salmon Creek,3,000000,32bcad,,019,,,19
+Burton,3,000000,a76635,,030,,,30
+Hazel Dell,3,000000,9f6eaf,,031,,,31
+Mill Plain / Fishers,3,000000,f58220,,037,,,37
+192nd Ave/34th St,3,ffffff,0000ff,,034,,,34
+Van Mall/Fisher's,3,000000,0089cf,,080_merged_532349,,,80
+St Johns,3,000000,c1b400,,025_merged_532341,,,25
+The Vine on Fourth Plain,3,000000,2d9a47,,050_merged_532348,,,Green
+Battle Ground/Yacolt,3,000000,ec008c,,047_merged_532352,,,47
+Fruit Valley / Grand,3,000000,00c0f3,,006_merged_532342,,,6
+East Fourth Plain/162nd Ave,3,000000,f27179,,074_merged_532344,,,74
+Camas / Washougal,3,000000,bc9632,,092_merged_532336,,,92
+Evergreen/Andresen,3,ffffff,2e3192,,032_merged_532347,,,32
+Delta Park Regional,3,ffffff,000000,,060,,,60
+Parkrose Regional,3,ffffff,000000,,065,,,65
+Airport Regional,3,ffffff,000000,,067,,,67
+Fisher's Landing CCF,3,000000,c0c0c0,,987,,,987
+Lincoln,3,ffffff,956338,,002,,,2
+Battle Ground,3,000000,a6ce39,,007,,,7
+Ridgefield,3,000000,0095da,,048,,,48
+Evergreen / Andresen,3,ffffff,2e3192,,032_merged_532338,,,32
+Vine,3,000000,2d9a47,,050_merged_532339,,,Vine
+Felida,3,000000,50b848,,009,,,9
+Van Mall CCF,3,000000,c0c0c0,,985,,,985
+I-5X Express,3,000000,ed1a3b,,106,,,105X
+SR 14,3,000000,39bb9d,,041,,,41
+I-5 Express,3,000000,ed1a3b,,105,,,105
+Saint Johns,3,000000,c1b400,,025_merged_532350,,,25
+The Vine on Mill Plain,3,ffffff,d2232a,,051,,,Red
+Fruit Valley/Grand,3,000000,00c0f3,,006_merged_532351,,,6
+Battle Ground / Yacolt,3,000000,ec008c,,047_merged_532343,,,47
+Fisher's Landing Express,3,000000,ed1a3b,,164_merged_532346,,,164
